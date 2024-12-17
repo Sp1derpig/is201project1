@@ -1,0 +1,14 @@
+ul {
+    list-style-type: disc; 
+    margin: 20px;          
+    padding: 10px;         
+  }
+ body{ color: black;}
+
+ h1{ color: rgb(61, 119, 36);}
+ .text-primary{ color: rgb(61, 119, 36);}
+ .text-primary1{ color: black;}
+ .nav{ color: black;}
+.bg-primary{background-color: rgb(15, 15, 74) !important;}
+h2{ color: rgb(61, 119, 36) !important;}
+ 
