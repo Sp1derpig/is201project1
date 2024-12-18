@@ -12,3 +12,9 @@ li{
 ul{
     font-family: 'Times New Roman', Times, serif;
 }
+.div{
+    margin-top: 10px;    /* Top spacing */
+    margin-right: 15px;  /* Right spacing */
+    margin-bottom: 10px; /* Bottom spacing */
+    margin-left: 15px;   /* Left spacing */
+}
